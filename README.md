@@ -1,2 +1,1 @@
-# JS-Logop-Login
-A short piece of username/password code in Javascript.
+A short piece of practice code for a login sequence in Javascript.
